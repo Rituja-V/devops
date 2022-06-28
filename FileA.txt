@@ -1,2 +1,2 @@
 "This is FileA"
-Adding this text - version 1 
+Adding this text - Github version 1 
